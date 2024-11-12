@@ -1,0 +1,6 @@
+A vezérlőpult területi beállításai
+ között milyen pénznem formátumok
+ közül választhatunk?
+ft,dollar,euro
+Mi az alapértelmezett böngésző?
+google chrome

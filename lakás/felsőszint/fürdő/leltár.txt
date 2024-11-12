@@ -1,0 +1,2 @@
+fájlnáv kiterjesztése *.*
+nagyobb mint 60 ezer
